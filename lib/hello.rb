@@ -10,6 +10,6 @@ def hello_t(array)
   return array
   
 else
-  puts 
+  puts "Hey! No block was given!"
 end
 
